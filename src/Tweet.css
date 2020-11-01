@@ -1,0 +1,10 @@
+.tweet {
+    height: 300px;
+    width: 300px;
+    display: flex;
+    background: white;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 30px;
+}
